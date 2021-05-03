@@ -10,7 +10,7 @@ background(0);
 }
 
 function draw() {
-  var a = n*50; // angle
+  var a = n*137.5; // angle
   var r = c *sqrt(n); //radius
 
   var x = r*cos(a)+width/2; // convert angle to x
