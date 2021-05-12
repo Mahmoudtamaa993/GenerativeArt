@@ -4,7 +4,7 @@ let fibs = [1,1]
 let scale = 1
 let minScale
 
-const colors = ['#9edbff', '#787fff', '#7452ff', '#a1c6ff']
+const colors = ['#83eb34', '#34c9eb', '#5f34eb', '#eb34b7']
 
 function setup () {
   createCanvas(CANVAS_WIDTH, CANVAS_HEIGHT)
